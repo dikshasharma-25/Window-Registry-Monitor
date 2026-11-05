@@ -129,27 +129,27 @@ Note: Run commands according to the execution flow implemented in each module.
 
 ### Project Structure
 
-![Project Structure](screenshots/project_structure.png)
+![Project Structure](Screenshots/project_structure.png)
 
 ### Baseline Creation
 
-![Baseline Creation](screenshots/baseline_creation.png)
+![Baseline Creation](Screenshots/baseline_creation.png)
 
 ### Detection Testing
 
-![Detection Testing](screenshots/detection_testing.png)
+![Detection Testing](Screenshots/detection_testing.png)
 
 ### Security Alerts
 
-![Security Alerts](screenshots/security_alerts.png)
+![Security Alerts](Screenshots/security_alerts.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Registry Logs
 
-![Registry Logs](screenshots/registry_logs.png)
+![Registry Logs](Screenshots/registry_logs.png)
 
 ## Testing
 
