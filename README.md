@@ -64,13 +64,13 @@ WindowsRegistryMonitor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dikshasharma-25/Windows-Registry-Monitor.git
+git https://github.com/dikshasharma-25/Window-Registry-Monitor.git
 ```
 
 ### 2. Navigate to Project Directory
 
 ```bash
-cd WindowsRegistryMonitor
+cd Window-Registry-Monitor
 ```
 
 ### 3. Create Virtual Environment
@@ -108,7 +108,7 @@ python baseline.py
 ### Run Detection Tests
 
 ```bash
-python test_detection.py
+python test_detector.py
 ```
 
 ### Start Registry Monitoring
