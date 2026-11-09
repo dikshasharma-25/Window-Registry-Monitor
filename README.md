@@ -25,26 +25,21 @@ This project monitors selected registry locations, compares current registry dat
 ## Technologies Used
 
 - Python
-- Flask
 - Windows Registry (winreg)
 - JSON and JSONL
 - Hashlib
-- HTML
-- CSS
+  
 
 ## Project Structure
 
 ```text
-WindowsRegistryMonitor/
-│
+Window-Registry-Monitor/
 ├── data/
 │   ├── alerts.jsonl
 │   ├── baseline.json
 │   └── registry_logs.jsonl
-│
 ├── logs/
 ├── screenshots/
-│
 ├── alert_system.py
 ├── baseline.py
 ├── dashboard.py
@@ -52,11 +47,10 @@ WindowsRegistryMonitor/
 ├── logger.py
 ├── monitor.py
 ├── registry_scanner.py
-├── test_detection.py
-│
+├── test_detector.py
+├── test_monitor.py
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ## Installation
