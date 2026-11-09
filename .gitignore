@@ -1,0 +1,14 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+
+data/baseline.json
+data/alerts.jsonl
+data/registry_logs.jsonl
+
+logs/
